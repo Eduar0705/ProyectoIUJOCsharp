@@ -7,12 +7,24 @@
       "RelativeMoniker": "D:0:0:{D65913C8-E0B2-4224-9903-D3C9E04CDFCA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D65913C8-E0B2-4224-9903-D3C9E04CDFCA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\eduar\\onedrive\\desktop\\proyectofinal\\proyectofinal\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D65913C8-E0B2-4224-9903-D3C9E04CDFCA}|ProyectoFinal\\ProyectoFinal.csproj|C:\\Users\\eduar\\OneDrive\\Desktop\\ProyectoFinal\\proyectofinal\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D65913C8-E0B2-4224-9903-D3C9E04CDFCA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D65913C8-E0B2-4224-9903-D3C9E04CDFCA}|ProyectoFinal\\ProyectoFinal.csproj|C:\\Users\\eduar\\OneDrive\\Desktop\\ProyectoFinal\\proyectofinal\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D65913C8-E0B2-4224-9903-D3C9E04CDFCA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65913C8-E0B2-4224-9903-D3C9E04CDFCA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\eduar\\onedrive\\desktop\\proyectofinal\\proyectofinal\\gestionauditores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65913C8-E0B2-4224-9903-D3C9E04CDFCA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\gestionauditores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65913C8-E0B2-4224-9903-D3C9E04CDFCA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\eduar\\onedrive\\desktop\\proyectofinal\\proyectofinal\\consultayreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65913C8-E0B2-4224-9903-D3C9E04CDFCA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\consultayreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65913C8-E0B2-4224-9903-D3C9E04CDFCA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\eduar\\onedrive\\desktop\\proyectofinal\\proyectofinal\\gestionprocesos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65913C8-E0B2-4224-9903-D3C9E04CDFCA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\gestionprocesos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D65913C8-E0B2-4224-9903-D3C9E04CDFCA}|ProyectoFinal\\ProyectoFinal.csproj|C:\\Users\\eduar\\OneDrive\\Desktop\\ProyectoFinal\\proyectofinal\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -26,8 +38,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InicioSesion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Desktop\\ProyectoFinal\\ProyectoFinal\\InicioSesion.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\InicioSesion.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Desktop\\ProyectoFinal\\ProyectoFinal\\InicioSesion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoFinal\\InicioSesion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:01:21.533Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsultayReportes.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Desktop\\ProyectoFinal\\ProyectoFinal\\ConsultayReportes.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\ConsultayReportes.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Desktop\\ProyectoFinal\\ProyectoFinal\\ConsultayReportes.cs",
+              "RelativeToolTip": "ProyectoFinal\\ConsultayReportes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T15:23:55.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GestionAuditores.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Desktop\\ProyectoFinal\\ProyectoFinal\\GestionAuditores.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\GestionAuditores.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Desktop\\ProyectoFinal\\ProyectoFinal\\GestionAuditores.cs",
+              "RelativeToolTip": "ProyectoFinal\\GestionAuditores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:46:37.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GestionProcesos.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Desktop\\ProyectoFinal\\ProyectoFinal\\GestionProcesos.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\GestionProcesos.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Desktop\\ProyectoFinal\\ProyectoFinal\\GestionProcesos.cs",
+              "RelativeToolTip": "ProyectoFinal\\GestionProcesos.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAAAB0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:45:34.54Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -43,32 +106,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "InicioSesion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Desktop\\ProyectoFinal\\ProyectoFinal\\InicioSesion.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal\\InicioSesion.cs",
-              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Desktop\\ProyectoFinal\\ProyectoFinal\\InicioSesion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ProyectoFinal\\InicioSesion.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T02:22:34.451Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Inicio.cs",
               "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Desktop\\ProyectoFinal\\ProyectoFinal\\Inicio.cs",
               "RelativeDocumentMoniker": "ProyectoFinal\\Inicio.cs",
               "ToolTip": "C:\\Users\\eduar\\OneDrive\\Desktop\\ProyectoFinal\\ProyectoFinal\\Inicio.cs",
               "RelativeToolTip": "ProyectoFinal\\Inicio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T22:45:56.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Inicio.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Desktop\\ProyectoFinal\\ProyectoFinal\\Inicio.cs",
               "RelativeDocumentMoniker": "ProyectoFinal\\Inicio.cs",

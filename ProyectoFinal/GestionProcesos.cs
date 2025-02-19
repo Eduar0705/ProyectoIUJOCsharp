@@ -26,7 +26,10 @@ namespace ProyectoFinal
             //Carga la lista para incluir los auditores en el combobox del proceso
             registroauditores.CargarDesdeArchivoTxt();
             for (int i = 0; i < registroauditores.ListadeGestionAuditores.Count; i++)
-                Combo_Auditores.Items.Add(registroauditores.ListadeGestionAuditores[i].Nombres + " " + registroauditores.ListadeGestionAuditores[i].Apellidos);
+            {
+                if (registroauditores.ListadeGestionAuditores[i].Activo)
+                    Combo_Auditores.Items.Add(registroauditores.ListadeGestionAuditores[i].Nombres + " " + registroauditores.ListadeGestionAuditores[i].Apellidos);
+            }
         }
 
         private void LimpiarErrorrProvider()

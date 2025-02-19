@@ -58,7 +58,11 @@ namespace ProyectoFinal
         private void BTN_FIltrarFecha_Click(object sender, EventArgs e)
         {
             DataGridViewProcesosFecha.Rows.Clear();
-
+            if (FH_RangoInicial.Value > FH_RangoFinal.Value) 
+            {
+                MessageBox.Show("Error: La fecha de inicio no puede ser mayor que la fecha incial.", "Mensaje Error");
+                return;
+            }
             foreach (Procesos proceso in registroprocesos.ListadeGestionProcesos)
             {
                 if (proceso.FechaProceso > FH_RangoInicial.Value && proceso.FechaProceso < FH_RangoFinal.Value)

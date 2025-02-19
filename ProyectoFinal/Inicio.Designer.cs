@@ -57,9 +57,9 @@
             this.PanelMenu.Controls.Add(this.BT_GesAuditores);
             this.PanelMenu.Dock = System.Windows.Forms.DockStyle.Left;
             this.PanelMenu.Location = new System.Drawing.Point(0, 0);
-            this.PanelMenu.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.PanelMenu.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.PanelMenu.Name = "PanelMenu";
-            this.PanelMenu.Size = new System.Drawing.Size(235, 731);
+            this.PanelMenu.Size = new System.Drawing.Size(313, 900);
             this.PanelMenu.TabIndex = 1;
             // 
             // button4
@@ -72,11 +72,11 @@
             this.button4.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.button4.Image = ((System.Drawing.Image)(resources.GetObject("button4.Image")));
             this.button4.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button4.Location = new System.Drawing.Point(0, 682);
-            this.button4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button4.Location = new System.Drawing.Point(0, 840);
+            this.button4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button4.Name = "button4";
-            this.button4.Padding = new System.Windows.Forms.Padding(9, 0, 0, 0);
-            this.button4.Size = new System.Drawing.Size(235, 49);
+            this.button4.Padding = new System.Windows.Forms.Padding(12, 0, 0, 0);
+            this.button4.Size = new System.Drawing.Size(313, 60);
             this.button4.TabIndex = 5;
             this.button4.Text = "           Salir";
             this.button4.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -94,11 +94,11 @@
             this.BT_ConsultaReportes.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.BT_ConsultaReportes.Image = ((System.Drawing.Image)(resources.GetObject("BT_ConsultaReportes.Image")));
             this.BT_ConsultaReportes.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.BT_ConsultaReportes.Location = new System.Drawing.Point(0, 147);
-            this.BT_ConsultaReportes.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.BT_ConsultaReportes.Location = new System.Drawing.Point(0, 180);
+            this.BT_ConsultaReportes.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BT_ConsultaReportes.Name = "BT_ConsultaReportes";
-            this.BT_ConsultaReportes.Padding = new System.Windows.Forms.Padding(9, 0, 0, 0);
-            this.BT_ConsultaReportes.Size = new System.Drawing.Size(235, 49);
+            this.BT_ConsultaReportes.Padding = new System.Windows.Forms.Padding(12, 0, 0, 0);
+            this.BT_ConsultaReportes.Size = new System.Drawing.Size(313, 60);
             this.BT_ConsultaReportes.TabIndex = 4;
             this.BT_ConsultaReportes.Text = "    Consultas y Reportes";
             this.BT_ConsultaReportes.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -116,11 +116,11 @@
             this.BT_GesProcesos.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.BT_GesProcesos.Image = ((System.Drawing.Image)(resources.GetObject("BT_GesProcesos.Image")));
             this.BT_GesProcesos.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.BT_GesProcesos.Location = new System.Drawing.Point(0, 98);
-            this.BT_GesProcesos.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.BT_GesProcesos.Location = new System.Drawing.Point(0, 120);
+            this.BT_GesProcesos.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BT_GesProcesos.Name = "BT_GesProcesos";
-            this.BT_GesProcesos.Padding = new System.Windows.Forms.Padding(9, 0, 0, 0);
-            this.BT_GesProcesos.Size = new System.Drawing.Size(235, 49);
+            this.BT_GesProcesos.Padding = new System.Windows.Forms.Padding(12, 0, 0, 0);
+            this.BT_GesProcesos.Size = new System.Drawing.Size(313, 60);
             this.BT_GesProcesos.TabIndex = 3;
             this.BT_GesProcesos.Text = "     Gestion de Procesos";
             this.BT_GesProcesos.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -138,11 +138,11 @@
             this.BT_GesSistema.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.BT_GesSistema.Image = ((System.Drawing.Image)(resources.GetObject("BT_GesSistema.Image")));
             this.BT_GesSistema.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.BT_GesSistema.Location = new System.Drawing.Point(0, 49);
-            this.BT_GesSistema.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.BT_GesSistema.Location = new System.Drawing.Point(0, 60);
+            this.BT_GesSistema.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BT_GesSistema.Name = "BT_GesSistema";
-            this.BT_GesSistema.Padding = new System.Windows.Forms.Padding(9, 0, 0, 0);
-            this.BT_GesSistema.Size = new System.Drawing.Size(235, 49);
+            this.BT_GesSistema.Padding = new System.Windows.Forms.Padding(12, 0, 0, 0);
+            this.BT_GesSistema.Size = new System.Drawing.Size(313, 60);
             this.BT_GesSistema.TabIndex = 2;
             this.BT_GesSistema.Text = "     Gestion de Sistema";
             this.BT_GesSistema.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -161,10 +161,10 @@
             this.BT_GesAuditores.Image = ((System.Drawing.Image)(resources.GetObject("BT_GesAuditores.Image")));
             this.BT_GesAuditores.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.BT_GesAuditores.Location = new System.Drawing.Point(0, 0);
-            this.BT_GesAuditores.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.BT_GesAuditores.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BT_GesAuditores.Name = "BT_GesAuditores";
-            this.BT_GesAuditores.Padding = new System.Windows.Forms.Padding(9, 0, 0, 0);
-            this.BT_GesAuditores.Size = new System.Drawing.Size(235, 49);
+            this.BT_GesAuditores.Padding = new System.Windows.Forms.Padding(12, 0, 0, 0);
+            this.BT_GesAuditores.Size = new System.Drawing.Size(313, 60);
             this.BT_GesAuditores.TabIndex = 1;
             this.BT_GesAuditores.Text = "    Gestion de Auditores";
             this.BT_GesAuditores.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -178,20 +178,20 @@
             this.panel2.Controls.Add(this.pictureBox2);
             this.panel2.Controls.Add(this.label1);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel2.Location = new System.Drawing.Point(235, 0);
-            this.panel2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.panel2.Location = new System.Drawing.Point(313, 0);
+            this.panel2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1207, 49);
+            this.panel2.Size = new System.Drawing.Size(1610, 60);
             this.panel2.TabIndex = 2;
             // 
             // pictureBox2
             // 
             this.pictureBox2.BackgroundImage = global::ProyectoFinal.Properties.Resources.casa_en_blanco;
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pictureBox2.Location = new System.Drawing.Point(3, 9);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.pictureBox2.Location = new System.Drawing.Point(4, 11);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(1);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(48, 32);
+            this.pictureBox2.Size = new System.Drawing.Size(64, 39);
             this.pictureBox2.TabIndex = 1;
             this.pictureBox2.TabStop = false;
             this.pictureBox2.Visible = false;
@@ -203,10 +203,9 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Century Gothic", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(514, 9);
-            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label1.Location = new System.Drawing.Point(686, 11);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(148, 30);
+            this.label1.Size = new System.Drawing.Size(180, 37);
             this.label1.TabIndex = 0;
             this.label1.Text = "Bienvenido";
             // 
@@ -215,35 +214,38 @@
             this.PN_MostrarInformacion.BackColor = System.Drawing.Color.White;
             this.PN_MostrarInformacion.Controls.Add(this.pictureBox1);
             this.PN_MostrarInformacion.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.PN_MostrarInformacion.Location = new System.Drawing.Point(235, 49);
-            this.PN_MostrarInformacion.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.PN_MostrarInformacion.Location = new System.Drawing.Point(313, 60);
+            this.PN_MostrarInformacion.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.PN_MostrarInformacion.Name = "PN_MostrarInformacion";
-            this.PN_MostrarInformacion.Size = new System.Drawing.Size(1207, 682);
+            this.PN_MostrarInformacion.Size = new System.Drawing.Size(1610, 840);
             this.PN_MostrarInformacion.TabIndex = 3;
             // 
             // pictureBox1
             // 
+            this.pictureBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.BackgroundImage")));
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.Location = new System.Drawing.Point(351, 80);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox1.Location = new System.Drawing.Point(468, 98);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(596, 584);
+            this.pictureBox1.Size = new System.Drawing.Size(795, 719);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
             // Inicio
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoValidate = System.Windows.Forms.AutoValidate.EnableAllowFocusChange;
-            this.ClientSize = new System.Drawing.Size(1442, 731);
+            this.ClientSize = new System.Drawing.Size(1923, 900);
             this.Controls.Add(this.PN_MostrarInformacion);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.PanelMenu);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.MinimumSize = new System.Drawing.Size(729, 458);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.MinimumSize = new System.Drawing.Size(966, 553);
             this.Name = "Inicio";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Inicio";

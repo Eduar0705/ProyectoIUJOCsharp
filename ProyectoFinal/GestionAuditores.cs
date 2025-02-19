@@ -19,7 +19,7 @@ namespace ProyectoFinal
 
             COMB_Sexo.Items.AddRange( new string[] { "Masculino", "Femenino" } );
             COMB_Nacionalidad.Items.AddRange( new string[] { "V", "E" } );
-
+           
         }
 
         private void LimpiarCampos()
